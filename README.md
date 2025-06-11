@@ -59,6 +59,6 @@
 
 <h3 align="left">🔥   Dados:</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomateusmm&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomateusmm&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomateusmm&layout=compact&theme=dark)
 
 ###
