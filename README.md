@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Mais sobre eu..</h3>
+<h3 align="left">👩‍💻  Mais informações:</h3>
 
 ###
 
